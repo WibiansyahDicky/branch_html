@@ -5,6 +5,6 @@ Pull Request : istilah yang bisa kita artikan sebagai permintaan untuk menggabun
 
 Merge : Merge adalah sebuah istilah dimana menggabungkan berbagai commit menjadi 1 commit uang sama.
 
-Conflict :
+Conflict : masalah yg terjadi ketika mau merge
 
-Checkout :
+Checkout :sebagai perintah untuk mengecek kondisi file di setiap commit
